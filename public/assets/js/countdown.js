@@ -9,7 +9,7 @@
 
 const startDate = new Date('16/03/2014') // THIS IS JUST FOR REFERENCE- DO NOT CHANGE THIS.
 
-const endDate = new Date('01/01/2015') // CHANGE THIS TO YOUR LAUNCHING DATE
+const endDate = new Date('01/01/2023') // CHANGE THIS TO YOUR LAUNCHING DATE
 
 const dif = endDate.getTime() - startDate.getTime()
 const difToSecond = dif / 1000
